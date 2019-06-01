@@ -31,3 +31,8 @@
     transform: rotate(360deg);
   }
 }
+
+.test-image {
+  background: url('https://www.enchantedgrounds.com/sites/default/files/styles/large/public/10.jpg');
+  height: auto;
+}
