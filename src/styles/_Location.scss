@@ -1,0 +1,33 @@
+.leaflet-popup-content-wrapper {
+  
+  h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: black;    
+  }
+  p {
+    font-size: 1rem;
+    margin: 0;
+  }
+}
+
+.leaflet-touch .leaflet-control-attribution {
+  display: none;
+}
+
+  .leaflet-container {
+    height: 400px;
+    // margin: 0 auto;
+    width: 400px;
+    box-shadow: -5px 5px 10px rgb(124, 124, 124);
+    // @media screen  and (max-width: 1000px) {
+    //   width: 49vw;
+    // }
+    // @media screen  and (max-width: 870px) {
+    //   width: 73vw;
+    // }
+  }
+
+.location {
+  background: green;
+}
